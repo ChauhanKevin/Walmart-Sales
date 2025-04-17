@@ -15,4 +15,4 @@ This project analyzes Walmart's weekly sales data using Power BI. It covers:
 - Power BI dashboard file
 - Raw dataset
  ## 📸 Dashboard Preview
- [image](https://github.com/user-attachments/assets/c52204f0-98a2-444c-bca6-171f777d7ab9)
+ ![image](https://github.com/user-attachments/assets/c52204f0-98a2-444c-bca6-171f777d7ab9)
